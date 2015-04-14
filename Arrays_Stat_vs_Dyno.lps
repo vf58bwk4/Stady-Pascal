@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="9"/>
+    <BuildModes Active="Default"/>
+    <Units Count="1">
+      <Unit0>
+        <Filename Value="Arrays_Stat_vs_Dyno.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Arrays_Stat_vs_Dyno"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="0"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="26" Y="18"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit0>
+    </Units>
+    <General>
+      <ActiveWindowIndexAtStart Value="0"/>
+    </General>
+    <JumpHistory Count="5" HistoryIndex="4">
+      <Position1>
+        <Filename Value="Arrays_Stat_vs_Dyno.lpr"/>
+        <Caret Line="11" Column="37" TopLine="1"/>
+      </Position1>
+      <Position2>
+        <Filename Value="Arrays_Stat_vs_Dyno.lpr"/>
+        <Caret Line="14" Column="39" TopLine="1"/>
+      </Position2>
+      <Position3>
+        <Filename Value="Arrays_Stat_vs_Dyno.lpr"/>
+        <Caret Line="7" Column="19" TopLine="1"/>
+      </Position3>
+      <Position4>
+        <Filename Value="Arrays_Stat_vs_Dyno.lpr"/>
+        <Caret Line="32" Column="30" TopLine="1"/>
+      </Position4>
+      <Position5>
+        <Filename Value="Arrays_Stat_vs_Dyno.lpr"/>
+        <Caret Line="23" Column="77" TopLine="1"/>
+      </Position5>
+    </JumpHistory>
+  </ProjectSession>
+  <EditorMacros Count="0"/>
+</CONFIG>
