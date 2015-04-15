@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="9"/>
+    <BuildModes Active="Default"/>
+    <Units Count="3">
+      <Unit0>
+        <Filename Value="Multithreading.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Multithreading"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="1"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="1" Y="13"/>
+        <UsageCount Value="21"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="unit3.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Semaphore"/>
+        <UsageCount Value="21"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="semaphore.pas"/>
+        <UnitName Value="Semaphore"/>
+        <EditorIndex Value="0"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="9" Y="26"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit2>
+    </Units>
+    <General>
+      <ActiveWindowIndexAtStart Value="0"/>
+    </General>
+    <JumpHistory Count="8" HistoryIndex="7">
+      <Position1>
+        <Filename Value="semaphore.pas"/>
+        <Caret Line="24" Column="4" TopLine="1"/>
+      </Position1>
+      <Position2>
+        <Filename Value="semaphore.pas"/>
+        <Caret Line="26" Column="1" TopLine="1"/>
+      </Position2>
+      <Position3>
+        <Filename Value="semaphore.pas"/>
+        <Caret Line="10" Column="1" TopLine="1"/>
+      </Position3>
+      <Position4>
+        <Filename Value="Multithreading.lpr"/>
+        <Caret Line="10" Column="10" TopLine="1"/>
+      </Position4>
+      <Position5>
+        <Filename Value="semaphore.pas"/>
+        <Caret Line="53" Column="21" TopLine="1"/>
+      </Position5>
+      <Position6>
+        <Filename Value="semaphore.pas"/>
+        <Caret Line="19" Column="3" TopLine="1"/>
+      </Position6>
+      <Position7>
+        <Filename Value="semaphore.pas"/>
+        <Caret Line="26" Column="10" TopLine="1"/>
+      </Position7>
+      <Position8>
+        <Filename Value="Multithreading.lpr"/>
+        <Caret Line="11" Column="3" TopLine="1"/>
+      </Position8>
+    </JumpHistory>
+  </ProjectSession>
+  <EditorMacros Count="0"/>
+</CONFIG>

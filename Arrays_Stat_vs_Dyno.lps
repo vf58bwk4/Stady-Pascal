@@ -13,15 +13,15 @@
         <EditorIndex Value="0"/>
         <WindowIndex Value="0"/>
         <TopLine Value="1"/>
-        <CursorPos X="26" Y="18"/>
-        <UsageCount Value="20"/>
+        <CursorPos X="1" Y="35"/>
+        <UsageCount Value="22"/>
         <Loaded Value="True"/>
       </Unit0>
     </Units>
     <General>
       <ActiveWindowIndexAtStart Value="0"/>
     </General>
-    <JumpHistory Count="5" HistoryIndex="4">
+    <JumpHistory Count="15" HistoryIndex="14">
       <Position1>
         <Filename Value="Arrays_Stat_vs_Dyno.lpr"/>
         <Caret Line="11" Column="37" TopLine="1"/>
@@ -42,6 +42,46 @@
         <Filename Value="Arrays_Stat_vs_Dyno.lpr"/>
         <Caret Line="23" Column="77" TopLine="1"/>
       </Position5>
+      <Position6>
+        <Filename Value="Arrays_Stat_vs_Dyno.lpr"/>
+        <Caret Line="58" Column="1" TopLine="5"/>
+      </Position6>
+      <Position7>
+        <Filename Value="Arrays_Stat_vs_Dyno.lpr"/>
+        <Caret Line="56" Column="15" TopLine="33"/>
+      </Position7>
+      <Position8>
+        <Filename Value="Arrays_Stat_vs_Dyno.lpr"/>
+        <Caret Line="67" Column="24" TopLine="22"/>
+      </Position8>
+      <Position9>
+        <Filename Value="Arrays_Stat_vs_Dyno.lpr"/>
+        <Caret Line="59" Column="24" TopLine="32"/>
+      </Position9>
+      <Position10>
+        <Filename Value="Arrays_Stat_vs_Dyno.lpr"/>
+        <Caret Line="26" Column="10" TopLine="1"/>
+      </Position10>
+      <Position11>
+        <Filename Value="Arrays_Stat_vs_Dyno.lpr"/>
+        <Caret Line="28" Column="46" TopLine="1"/>
+      </Position11>
+      <Position12>
+        <Filename Value="Arrays_Stat_vs_Dyno.lpr"/>
+        <Caret Line="71" Column="41" TopLine="1"/>
+      </Position12>
+      <Position13>
+        <Filename Value="Arrays_Stat_vs_Dyno.lpr"/>
+        <Caret Line="58" Column="18" TopLine="12"/>
+      </Position13>
+      <Position14>
+        <Filename Value="Arrays_Stat_vs_Dyno.lpr"/>
+        <Caret Line="21" Column="23" TopLine="1"/>
+      </Position14>
+      <Position15>
+        <Filename Value="Arrays_Stat_vs_Dyno.lpr"/>
+        <Caret Line="3" Column="48" TopLine="1"/>
+      </Position15>
     </JumpHistory>
   </ProjectSession>
   <EditorMacros Count="0"/>
